@@ -1,2 +1,3 @@
 # Static-domain
-this is a public web endpoint that serves a provided index.html using Nginx on a cloud
+Minimal static site for Nginx on Azure VM. Contains a single `index.html` at repo root.
+
